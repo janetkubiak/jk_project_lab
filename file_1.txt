@@ -2,3 +2,6 @@ This is a new line.
 This is my GIT test file.
 This class is fun.
 Ali is cool.
+Hi, this is my contribution!
+Very cool
+very fun, wow
