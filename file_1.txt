@@ -1,0 +1,3 @@
+This is my GIT test file.
+This class is fun.
+Ali is cool.
