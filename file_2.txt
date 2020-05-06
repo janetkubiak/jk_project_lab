@@ -1,2 +1,3 @@
 This is my 2nd file.
 Ali is still cool.
+Kate is cool too.
